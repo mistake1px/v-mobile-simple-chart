@@ -6,7 +6,7 @@
 
 ## 效果图
 
-![demo示例图](https://github.com/mistake1px/v-mobile-simple-chart/example/demo.jpg)
+![demo示例图](https://github.com/mistake1px/v-mobile-simple-chart/blob/master/examples/demo.jpg)
 
 ## line-chart
 
